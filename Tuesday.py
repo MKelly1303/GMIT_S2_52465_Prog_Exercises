@@ -1,3 +1,6 @@
+# Quick program to review If statements
+# Mark Kelly 01/10/2018
+
 import datetime
 today = datetime.datetime.today()
 dayofweek = today.weekday()
