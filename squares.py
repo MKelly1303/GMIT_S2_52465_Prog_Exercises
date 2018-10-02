@@ -11,3 +11,9 @@ for i in range(100):
   #prints i and the square of i. i has 3 character spaces while i*i has 5. f formats the output++++
 
 print("Thats the full list")
+
+
+# talking about ranges
+print(range(20))
+# this will just print 'range(0,20)'
+print(list(range(20)))
